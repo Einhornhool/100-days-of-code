@@ -11,3 +11,7 @@ Did the first 100 FreeCodeCamp Exercises.
 
 ### R1D5
 Worked on the tribute page for freeCodeCamp on CodePen (https://codepen.io/Einhornhool/full/zWoxrQ/). I covered the basics but am not fully happy with it. I'll have to work on it to fix some stuff.
+
+### R1D6
+The next FCC-challenge ist to build a portfolio page on CodePen and I started that today. I gave up on Bootstrap and started just using Flexbox. Currently fucking around a lot. (https://codepen.io/Einhornhool/full/xWqVgw/)
+Learned using Font Awesome Icons.
