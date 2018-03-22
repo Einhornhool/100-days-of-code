@@ -15,3 +15,6 @@ Worked on the tribute page for freeCodeCamp on CodePen (https://codepen.io/Einho
 ### R1D6
 The next FCC-challenge ist to build a portfolio page on CodePen and I started that today. I gave up on Bootstrap and started just using Flexbox. Currently fucking around a lot. (https://codepen.io/Einhornhool/full/xWqVgw/)
 Learned using Font Awesome Icons.
+
+### R1D7
+Didn't go as well as I planned. I forked yesterdays portfolio to start over with bootstrap. BS-dropdown menu didn't work and I couldn't figure out why so I started building a new one from  the ground up. 
