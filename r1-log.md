@@ -18,3 +18,6 @@ Learned using Font Awesome Icons.
 
 ### R1D7
 Didn't go as well as I planned. I forked yesterdays portfolio to start over with bootstrap. BS-dropdown menu didn't work and I couldn't figure out why so I started building a new one from  the ground up. 
+
+### R1D8
+Finally finished the header and menu. Found the "Projects"-area on CodePen and I'm going to build my portfolio page there. 
