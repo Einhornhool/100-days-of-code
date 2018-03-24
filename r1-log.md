@@ -21,3 +21,7 @@ Didn't go as well as I planned. I forked yesterdays portfolio to start over with
 
 ### R1D8
 Finally finished the header and menu. Found the "Projects"-area on CodePen and I'm going to build my portfolio page there. 
+
+### R1D9
+I kind of finished the portfolio page in codepen (https://codepen.io/Einhornhool/pen/LdyEMw). I imported the needed JavaScript-Files, though I don't really understand how, yet. I just copied it from someone elses project. I guess I'll learn that later.
+Now I can finally work on something else.
