@@ -25,3 +25,6 @@ Finally finished the header and menu. Found the "Projects"-area on CodePen and I
 ### R1D9
 I kind of finished the portfolio page in codepen (https://codepen.io/Einhornhool/pen/LdyEMw). I imported the needed JavaScript-Files, though I don't really understand how, yet. I just copied it from someone elses project. I guess I'll learn that later.
 Now I can finally work on something else.
+
+### R1D10
+Continued with freeCodeCamp. Got into javascript. I'm really tired so its good I already know the basics of prgramming from learning Python. It's fun, I'd like to keep on doing it, but I really can't concetrate anymore.
