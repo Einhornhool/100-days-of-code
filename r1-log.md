@@ -28,3 +28,6 @@ Now I can finally work on something else.
 
 ### R1D10
 Continued with freeCodeCamp. Got into javascript. I'm really tired so its good I already know the basics of prgramming from learning Python. It's fun, I'd like to keep on doing it, but I really can't concetrate anymore.
+
+### R1D11
+Continued learning JavaScript on freeCodeCamp. Learned using the switch statement.
