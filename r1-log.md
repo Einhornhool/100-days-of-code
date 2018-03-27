@@ -31,3 +31,6 @@ Continued with freeCodeCamp. Got into javascript. I'm really tired so its good I
 
 ### R1D11
 Continued learning JavaScript on freeCodeCamp. Learned using the switch statement.
+
+### R1D12
+Some more JavaScript on fCC. Used nested arrays and dictionaries and how to access them.
