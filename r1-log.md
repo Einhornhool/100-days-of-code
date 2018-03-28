@@ -34,3 +34,6 @@ Continued learning JavaScript on freeCodeCamp. Learned using the switch statemen
 
 ### R1D12
 Some more JavaScript on fCC. Used nested arrays and dictionaries and how to access them.
+
+### R1D13
+Learned for- and while loops in JavaScript. Also I learned how to generate random numbers. I really don't understand the formula for random numbers in a range (Math.floor(Math.random() * (max - min + 1)) + min). Need to read more on that.
