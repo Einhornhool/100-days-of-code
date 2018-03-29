@@ -37,3 +37,6 @@ Some more JavaScript on fCC. Used nested arrays and dictionaries and how to acce
 
 ### R1D13
 Learned for- and while loops in JavaScript. Also I learned how to generate random numbers. I really don't understand the formula for random numbers in a range (Math.floor(Math.random() * (max - min + 1)) + min). Need to read more on that.
+
+### R1D14
+Javascript's getting harder now. FCC has some coding challenges and again I'm realizing, that even though I understand the basics, practicing it is a whole different thing.
