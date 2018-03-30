@@ -40,3 +40,6 @@ Learned for- and while loops in JavaScript. Also I learned how to generate rando
 
 ### R1D14
 Javascript's getting harder now. FCC has some coding challenges and again I'm realizing, that even though I understand the basics, practicing it is a whole different thing.
+
+### R1D15
+Finished the palindrome-challenge on fCC and looking at other solutions and tips I'm learning to read other people's code – which ist pretty hard. Also I learned that I'm still pretty stupid and need much more practice.
