@@ -43,3 +43,7 @@ Javascript's getting harder now. FCC has some coding challenges and again I'm re
 
 ### R1D15
 Finished the palindrome-challenge on fCC and looking at other solutions and tips I'm learning to read other people's code – which ist pretty hard. Also I learned that I'm still pretty stupid and need much more practice.
+
+
+### R1D16
+After about 8 hours of designing stuff for a friend I managed to do another algorithm challenge. I solved it pretty quickly which made me really happy. The next challenge was harder and I didn't solve it. I'll try again tomorrow, when I'm not as tired.
