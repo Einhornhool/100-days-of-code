@@ -47,3 +47,7 @@ Finished the palindrome-challenge on fCC and looking at other solutions and tips
 
 ### R1D16
 After about 8 hours of designing stuff for a friend I managed to do another algorithm challenge. I solved it pretty quickly which made me really happy. The next challenge was harder and I didn't solve it. I'll try again tomorrow, when I'm not as tired.
+
+### R1D17
+Didn't do much around easter weekend and skipped a day. I failed some challenges on sunday. 
+Today I managed some algorithm challenges on fCC and it went pretty well.
