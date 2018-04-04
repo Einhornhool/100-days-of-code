@@ -51,3 +51,6 @@ After about 8 hours of designing stuff for a friend I managed to do another algo
 ### R1D17
 Didn't do much around easter weekend and skipped a day. I failed some challenges on sunday. 
 Today I managed some algorithm challenges on fCC and it went pretty well.
+
+### R1D18
+Did some more algorithm challenges on fCC. Went okay, but  I can't seem to get it exactly right without help.
