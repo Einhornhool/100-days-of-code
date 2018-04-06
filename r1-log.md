@@ -58,4 +58,5 @@ Did some more algorithm challenges on fCC. Went okay, but  I can't seem to get i
 ### R1D19 
 Went pretty badly. Tried to understand how to filter an array with Boolean objects and I don't understand a thing. There's a knot in my brain. I'm going to stop now to repair my bike.
 
-
+### R1D20
+Understood the Boolean stuff from yesterday. But I'm having trouble with the new challenge on fCC. Maybe I'm just too stupid.
