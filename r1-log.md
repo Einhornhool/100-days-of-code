@@ -60,3 +60,7 @@ Went pretty badly. Tried to understand how to filter an array with Boolean objec
 
 ### R1D20
 Understood the Boolean stuff from yesterday. But I'm having trouble with the new challenge on fCC. Maybe I'm just too stupid.
+
+
+### R1D21
+Took another break for a day and finished two challenges on fCC today. Maybe I'm not that stupid, but I still make many small mistakes.
