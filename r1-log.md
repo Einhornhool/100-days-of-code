@@ -61,6 +61,9 @@ Went pretty badly. Tried to understand how to filter an array with Boolean objec
 ### R1D20
 Understood the Boolean stuff from yesterday. But I'm having trouble with the new challenge on fCC. Maybe I'm just too stupid.
 
-
 ### R1D21
 Took another break for a day and finished two challenges on fCC today. Maybe I'm not that stupid, but I still make many small mistakes.
+
+### R1D22
+Finally finished the algorithm challenges on fCC. Last one was a catastrophe. I'll have to learn more Javascript by doing challenges on Codewars or something. 
+Now I'm learning how to use JSON. 
