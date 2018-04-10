@@ -67,3 +67,6 @@ Took another break for a day and finished two challenges on fCC today. Maybe I'm
 ### R1D22
 Finally finished the algorithm challenges on fCC. Last one was a catastrophe. I'll have to learn more Javascript by doing challenges on Codewars or something. 
 Now I'm learning how to use JSON. 
+
+### R1D23
+Building a Random Quote Machine for fCC. It's fun, I have to research stuff. I feel like building these webpages or apps on my own teaches me most. 
