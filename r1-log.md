@@ -70,3 +70,6 @@ Now I'm learning how to use JSON.
 
 ### R1D23
 Building a Random Quote Machine for fCC. It's fun, I have to research stuff. I feel like building these webpages or apps on my own teaches me most. 
+
+### R1D24
+Building the randon Quote machine. Having problems with accessing random object properties. Found out how to install node.js and access it with shell, though.
