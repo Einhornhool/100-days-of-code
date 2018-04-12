@@ -72,4 +72,7 @@ Now I'm learning how to use JSON.
 Building a Random Quote Machine for fCC. It's fun, I have to research stuff. I feel like building these webpages or apps on my own teaches me most. 
 
 ### R1D24
-Building the randon Quote machine. Having problems with accessing random object properties. Found out how to install node.js and access it with shell, though.
+Building the random Quote machine. Having problems with accessing random object properties. Found out how to install node.js and access it with shell, though.
+
+### R1D25
+Still working on the random quote machine. I managed to get a random quote, but couldn't work out how to correctly convert it to HTML. Using node in iTerm really helps figuring out stuff.
