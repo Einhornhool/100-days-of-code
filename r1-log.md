@@ -78,4 +78,4 @@ Building the random Quote machine. Having problems with accessing random object 
 Still working on the random quote machine. I managed to get a random quote, but couldn't work out how to correctly convert it to HTML. Using node in iTerm really helps figuring out stuff.
 
 ### R1D26
-Diese Random Quote Machine funzt nicht. Sobald ich ein Random Object über eine Funktion definieren möchte, kommt nur noch "undefined" raus. Werde wohl mal das Internet befragen müssen.
+Still working on the random quote machine for fCC and somehow I can't get it to access a random object from an array. I either get all the quotes or undefined.
