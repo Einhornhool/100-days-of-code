@@ -79,3 +79,6 @@ Still working on the random quote machine. I managed to get a random quote, but 
 
 ### R1D26
 Still working on the random quote machine for fCC and somehow I can't get it to access a random object from an array. I either get all the quotes or undefined.
+
+### R1D27
+Finally used the fCC community to find a solution to my problem with the random quote machine and solved it. Now I'm fighting with the Twitter share button.
