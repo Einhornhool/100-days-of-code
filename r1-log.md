@@ -82,3 +82,6 @@ Still working on the random quote machine for fCC and somehow I can't get it to 
 
 ### R1D27
 Finally used the fCC community to find a solution to my problem with the random quote machine and solved it. Now I'm fighting with the Twitter share button.
+
+### R1D28
+Random Quote Machine: Twitter share button still a problem. Can't get it to work and solutions of other people didn't work either. Found out you can do projects on github. That's awesome, I need to learn about that.
