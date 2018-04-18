@@ -85,3 +85,6 @@ Finally used the fCC community to find a solution to my problem with the random 
 
 ### R1D28
 Random Quote Machine: Twitter share button still a problem. Can't get it to work and solutions of other people didn't work either. Found out you can do projects on github. That's awesome, I need to learn about that.
+
+### R1D29 |
+Finished the random quote machine yesterday (tweet-button works now). Wanted to create another project on codepen and found out that you can only have one if you use the free service. Started to learn how to use github. It's complicated, but pretty awesome. 
