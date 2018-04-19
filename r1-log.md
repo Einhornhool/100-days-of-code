@@ -88,3 +88,6 @@ Random Quote Machine: Twitter share button still a problem. Can't get it to work
 
 ### R1D29 |
 Finished the random quote machine yesterday (tweet-button works now). Wanted to create another project on codepen and found out that you can only have one if you use the free service. Started to learn how to use github. It's complicated, but pretty awesome. 
+
+### R1D30
+Learning Git basics with learnenough.com, so I can use github for projects in the future.
