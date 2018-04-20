@@ -91,3 +91,6 @@ Finished the random quote machine yesterday (tweet-button works now). Wanted to 
 
 ### R1D30
 Learning Git basics with learnenough.com, so I can use github for projects in the future.
+
+### R1D31 
+Still learning Git and getting more comfortable with the command line
