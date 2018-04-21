@@ -94,3 +94,6 @@ Learning Git basics with learnenough.com, so I can use github for projects in th
 
 ### R1D31 
 Still learning Git and getting more comfortable with the command line
+
+### R1D32
+Just learned a bit of git. 
