@@ -97,3 +97,6 @@ Still learning Git and getting more comfortable with the command line
 
 ### R1D32
 Just learned a bit of git. 
+
+### R1D33
+Another day of learning git. I'm proud I kept going even though it's a weekend.
