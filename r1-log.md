@@ -103,3 +103,6 @@ Another day of learning git. I'm proud I kept going even though it's a weekend.
 
 ### R1D34
 Finished the Learn Enough Git turorial. I'll start with the command-line and text-editor tutorials tomorrow.
+
+### R1D35 
+After the git tutorial I finished the command line tutorial and started the text-editor tut.
