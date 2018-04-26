@@ -109,3 +109,7 @@ After the git tutorial I finished the command line tutorial and started the text
 
 ### R1D36
 Still on my detour to learn text-editor on learnenough.com. Already trying to use more github.
+
+### R1D37
+Finfished the text-editor turorial on learnenough.com
+Tomorrow I'm going to get to work on the freeCodeCamp course again.
