@@ -113,3 +113,6 @@ Still on my detour to learn text-editor on learnenough.com. Already trying to us
 ### R1D37
 Finfished the text-editor turorial on learnenough.com
 Tomorrow I'm going to get to work on the freeCodeCamp course again.
+
+### R1D38
+Started working on weather app. I managed to get geolocations but had problems to get the weather API.
