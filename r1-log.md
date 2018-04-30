@@ -116,3 +116,6 @@ Tomorrow I'm going to get to work on the freeCodeCamp course again.
 
 ### R1D38
 Started working on weather app. I managed to get geolocations but had problems to get the weather API.
+
+### R1D39
+Had problems doing th local weather app. But found a great tutorial on youtube and started watching it.
