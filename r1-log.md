@@ -119,3 +119,6 @@ Started working on weather app. I managed to get geolocations but had problems t
 
 ### R1D39
 Had problems doing th local weather app. But found a great tutorial on youtube and started watching it.
+
+### R1D40
+Finished the video tutorial for the local weather app and downloaded some pictures I want to use for my app. Tomorrow I'm going to start.
