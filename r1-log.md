@@ -122,3 +122,6 @@ Had problems doing th local weather app. But found a great tutorial on youtube a
 
 ### R1D40
 Finished the video tutorial for the local weather app and downloaded some pictures I want to use for my app. Tomorrow I'm going to start.
+
+### R1D41
+Finally finished the weather app. Pretty happy about it. Managed to change background images depending on weather and found bug all by myself.
