@@ -125,3 +125,6 @@ Finished the video tutorial for the local weather app and downloaded some pictur
 
 ### R1D41
 Finally finished the weather app. Pretty happy about it. Managed to change background images depending on weather and found bug all by myself.
+
+### R1D42
+Started the Wikipedia Viewer for freeCodeCamp. It's been a lot of reading the documentation today. I want to try to do this all by myself this time, so I'll have to understand everything.
