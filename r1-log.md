@@ -128,3 +128,6 @@ Finally finished the weather app. Pretty happy about it. Managed to change backg
 
 ### R1D42
 Started the Wikipedia Viewer for freeCodeCamp. It's been a lot of reading the documentation today. I want to try to do this all by myself this time, so I'll have to understand everything.
+
+### R1D43
+Continued reading about the Wikipedia API and tried some stuff in codepen. Not successful. Probably need help again. 
