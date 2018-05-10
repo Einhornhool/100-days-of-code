@@ -134,3 +134,6 @@ Continued reading about the Wikipedia API and tried some stuff in codepen. Not s
 
 ### R1D44
 Continued reading about the Wikipedia API. I watched parts of a video about it to get pushed in the right direction. Now trying to solve the rest alone (still not easy).
+
+### R1D45
+Managed to get data from the Wikipedia API. Now I just have to use and format it correctly. Everything's getting more clear now.
