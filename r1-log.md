@@ -137,3 +137,6 @@ Continued reading about the Wikipedia API. I watched parts of a video about it t
 
 ### R1D45
 Managed to get data from the Wikipedia API. Now I just have to use and format it correctly. Everything's getting more clear now.
+
+### R1D46
+Continued working on the Wikipedia viewer. Having trouble accessing the data correctly and styling it.
