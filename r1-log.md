@@ -140,3 +140,6 @@ Managed to get data from the Wikipedia API. Now I just have to use and format it
 
 ### R1D46
 Continued working on the Wikipedia viewer. Having trouble accessing the data correctly and styling it.
+
+### R1D47
+Finished Wikipedia viewer. Unfortunately my html document doesn't link to my javascript document, so it doesn't work outside of codepen. I'll have to figure that out.
