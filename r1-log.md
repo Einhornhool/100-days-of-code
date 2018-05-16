@@ -143,3 +143,6 @@ Continued working on the Wikipedia viewer. Having trouble accessing the data cor
 
 ### R1D47
 Finished Wikipedia viewer. Unfortunately my html document doesn't link to my javascript document, so it doesn't work outside of codepen. I'll have to figure that out.
+
+### R1D48
+Started the twitch.tv API. It's definitely getting easier. Unfortunately I made the mistake to look at the code of the example page which influenced me. I'll have to stop that.
