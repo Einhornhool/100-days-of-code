@@ -146,3 +146,6 @@ Finished Wikipedia viewer. Unfortunately my html document doesn't link to my jav
 
 ### R1D48
 Started the twitch.tv API. It's definitely getting easier. Unfortunately I made the mistake to look at the code of the example page which influenced me. I'll have to stop that.
+
+### R1D49
+Worked on twitch.tv API. Having some problems with global and local variables. Currently reading about it.
