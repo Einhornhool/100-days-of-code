@@ -149,3 +149,6 @@ Started the twitch.tv API. It's definitely getting easier. Unfortunately I made 
 
 ### R1D49
 Worked on twitch.tv API. Having some problems with global and local variables. Currently reading about it.
+
+### R1D50
+Finished Twitch API and continued the algorithm challenges on fCC.
