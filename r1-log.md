@@ -154,3 +154,6 @@ Finished Twitch API and continued the algorithm challenges on fCC.
 
 ### R1D51
 Contiued doing the fCC algorithm challenges and downloaded exercism again.
+
+### R1D52 
+Still on the algorithm challenges. Algorithms are definitely one of my weaknesses rn.
