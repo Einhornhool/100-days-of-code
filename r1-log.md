@@ -157,3 +157,6 @@ Contiued doing the fCC algorithm challenges and downloaded exercism again.
 
 ### R1D52 
 Still on the algorithm challenges. Algorithms are definitely one of my weaknesses rn.
+
+### R1D53
+Still on algorithm challenges.
