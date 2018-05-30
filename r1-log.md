@@ -160,3 +160,6 @@ Still on the algorithm challenges. Algorithms are definitely one of my weaknesse
 
 ### R1D53
 Still on algorithm challenges.
+
+### R1D54
+Finfished yesterday's algorithm challenge. The next one is about converting numbers to roman numbers. It's gonna be hard again.
