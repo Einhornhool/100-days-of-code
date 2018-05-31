@@ -163,3 +163,7 @@ Still on algorithm challenges.
 
 ### R1D54
 Finfished yesterday's algorithm challenge. The next one is about converting numbers to roman numbers. It's gonna be hard again.
+
+### R1D55
+FreeCodeCamp changed their layout and added lot's of stuff. Actually I need to start all over again. Maybe I'll try exercism again.
+Destroyed my PATH, but managed to get it right again.
