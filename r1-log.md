@@ -167,3 +167,6 @@ Finfished yesterday's algorithm challenge. The next one is about converting numb
 ### R1D55
 FreeCodeCamp changed their layout and added lot's of stuff. Actually I need to start all over again. Maybe I'll try exercism again.
 Destroyed my PATH, but managed to get it right again.
+
+### R1D56
+Went back to the beginning of freeCodeCamp and started to do all the exercises that are new. There's some cool stuff, but they really changed a lot.
