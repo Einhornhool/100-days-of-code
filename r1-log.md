@@ -173,3 +173,6 @@ Went back to the beginning of freeCodeCamp and started to do all the exercises t
 
 ### R1D57
 Still working on freeCodeCamp challenges
+
+### R1D58
+Still doing the Applied Visual Design exercises. Learning lots of new stuff.
