@@ -176,3 +176,6 @@ Still working on freeCodeCamp challenges
 
 ### R1D58
 Still doing the Applied Visual Design exercises. Learning lots of new stuff.
+
+### R1D59
+Finished Applied Visual Design exercises and started doing the Applied Accessibility Challenges.
