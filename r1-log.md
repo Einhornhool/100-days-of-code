@@ -182,3 +182,6 @@ Finished Applied Visual Design exercises and started doing the Applied Accessibi
 
 ### R1D60
 Now on flexbox challenges on fCC. Very tired atm.
+
+### R1D61
+Finished the CSS-Flexbox and -Grid challenges on FCC.
