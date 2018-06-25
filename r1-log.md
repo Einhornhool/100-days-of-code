@@ -185,3 +185,6 @@ Now on flexbox challenges on fCC. Very tired atm.
 
 ### R1D61
 Finished the CSS-Flexbox and -Grid challenges on FCC.
+
+### R1D62
+Worked on Javascript objects on fCC again.
