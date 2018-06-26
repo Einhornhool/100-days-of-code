@@ -188,3 +188,6 @@ Finished the CSS-Flexbox and -Grid challenges on FCC.
 
 ### R1D62
 Worked on Javascript objects on fCC again.
+
+### R1D63
+Worked on JavaScript Challenges on fCC.
