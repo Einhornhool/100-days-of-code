@@ -191,3 +191,6 @@ Worked on Javascript objects on fCC again.
 
 ### R1D63
 Worked on JavaScript Challenges on fCC.
+
+### R1D64 
+Worked on javascript ES6 challenges on fCC.
